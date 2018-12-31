@@ -3,7 +3,7 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitt
 # Installation
 ```
 sudo apt-get install git
-sudo git clone https://github.com/TunisianEagles/SocialBox.git
+sudo git clone https://github.com/moleculax/SocialBox.git
 cd SocialBox
 chmod +x SocialBox.sh
 chmod +x install-sb.sh
@@ -16,11 +16,12 @@ chmod +x install-sb.sh
 * Backbox linux
 * Ubuntu 
 * Kali linux
-# Contact
-* [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
+
 # Authors :
 * facebook  : Imad
 * gmail     : Ha3MrX
 * instagram : thelinuxchoice
 * Twitter   : thelinuxchoice
 * SocialBox : Belahsan Ouerghi
+<br>
+http://moleculax.com.ve/
